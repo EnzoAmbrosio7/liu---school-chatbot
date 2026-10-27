@@ -1,0 +1,77 @@
+.oswald-font {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+img {
+    object-fit: contain;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #373F47;
+}
+
+#maindiv {
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    font-size: 10vh;
+    color: #D0CDD7;
+}
+
+
+#maindiv input {
+    font-family: "Oswald", sans-serif ;
+    font-weight: 300;
+    font-size: 2vh;
+    color: #D0CDD7;
+
+    width: 37.5vh;
+    height: 4.5vh;
+    color: #D0CDD7;
+    background-color: #373F47;
+    border: solid #D0CDD7 0.3vh;
+    border-radius: 15px;
+    font-size: 2.3vh;
+}
+
+#maindiv button {
+    font-family: "Oswald", sans-serif ;
+    font-weight: 600;
+    font-size: 2vh;
+    color: #D0CDD7;
+
+    width: 8vh;
+    height: 4vh;
+    border: solid #D0CDD7 0.3vh;
+    border-radius: 15px;
+    background-color: #373F47;
+}
+
+header {
+    background-color:#D0CDD7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    font-size: 10vh;
+    color: #373F47;
+}
+
+#imgs-header {
+    display: flex;
+    flex-direction: row;
+}
+
+#glow {
+    color: #A71D31;
+}
