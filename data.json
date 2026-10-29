@@ -1,0 +1,1202 @@
+[
+  {
+    "fator": "alunos",
+    "mensagem": "Sobre alunos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "estudante",
+    "mensagem": "Sobre alunos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "matricula",
+    "mensagem": "Sobre matrícula, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "matrícula",
+    "mensagem": "Sobre matrícula, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "transferencia",
+    "mensagem": "Sobre transferência, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "transferência",
+    "mensagem": "Sobre transferência, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "rematricula",
+    "mensagem": "Sobre rematrícula, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "rematrícula",
+    "mensagem": "Sobre rematrícula, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "turma",
+    "mensagem": "Sobre turmas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "classe",
+    "mensagem": "Sobre turmas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "sala",
+    "mensagem": "Sobre salas de aula, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "salas",
+    "mensagem": "Sobre salas de aula, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "professor",
+    "mensagem": "Sobre professores, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "professora",
+    "mensagem": "Sobre professores, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "docente",
+    "mensagem": "Sobre professores, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "diretor",
+    "mensagem": "Sobre direção, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "diretora",
+    "mensagem": "Sobre direção, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "coordenador",
+    "mensagem": "Sobre coordenação, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "coordenadora",
+    "mensagem": "Sobre coordenação, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "secretaria",
+    "mensagem": "Sobre secretaria escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "secretário",
+    "mensagem": "Sobre secretaria escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "secretariaescolar",
+    "mensagem": "Sobre secretaria escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "pedagógico",
+    "mensagem": "Sobre coordenação pedagógica, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "orientador",
+    "mensagem": "Sobre orientação educacional, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "orientadora",
+    "mensagem": "Sobre orientação educacional, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "funcionário",
+    "mensagem": "Sobre funcionários, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "funcionarios",
+    "mensagem": "Sobre funcionários, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "equipe",
+    "mensagem": "Sobre equipe escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "escola",
+    "mensagem": "Sobre a escola, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "instituição",
+    "mensagem": "Sobre a escola, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "endereço",
+    "mensagem": "Sobre endereço, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "endereco",
+    "mensagem": "Sobre endereço, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "localização",
+    "mensagem": "Sobre localização, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "localizacao",
+    "mensagem": "Sobre localização, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "telefone",
+    "mensagem": "Sobre contato, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "contato",
+    "mensagem": "Sobre contato, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "email",
+    "mensagem": "Sobre contato, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "e-mail",
+    "mensagem": "Sobre contato, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "site",
+    "mensagem": "Sobre site oficial, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "instagram",
+    "mensagem": "Sobre redes sociais, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "facebook",
+    "mensagem": "Sobre redes sociais, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "whatsapp",
+    "mensagem": "Sobre whatsapp, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "horário",
+    "mensagem": "Sobre horários, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "horario",
+    "mensagem": "Sobre horários, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "funcionamento",
+    "mensagem": "Sobre funcionamento, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "abertura",
+    "mensagem": "Sobre abertura, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "fechamento",
+    "mensagem": "Sobre fechamento, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "entrada",
+    "mensagem": "Sobre entrada, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "saída",
+    "mensagem": "Sobre saída, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "saida",
+    "mensagem": "Sobre saída, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "atraso",
+    "mensagem": "Sobre atrasos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "portão",
+    "mensagem": "Sobre portões, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "portao",
+    "mensagem": "Sobre portões, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "uniforme",
+    "mensagem": "Sobre uniforme, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "roupa",
+    "mensagem": "Sobre uniforme, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "material",
+    "mensagem": "Sobre material escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "materiais",
+    "mensagem": "Sobre material escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "mochila",
+    "mensagem": "Sobre material escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "lista",
+    "mensagem": "Sobre lista de materiais, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "livro",
+    "mensagem": "Sobre livros didáticos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "livros",
+    "mensagem": "Sobre livros didáticos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "caderno",
+    "mensagem": "Sobre cadernos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "apostila",
+    "mensagem": "Sobre apostilas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "estojo",
+    "mensagem": "Sobre material escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "lápis",
+    "mensagem": "Sobre material escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "caneta",
+    "mensagem": "Sobre material escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "borracha",
+    "mensagem": "Sobre material escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "régua",
+    "mensagem": "Sobre material escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "calculadora",
+    "mensagem": "Sobre material escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "tablet",
+    "mensagem": "Sobre tecnologia escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "notebook",
+    "mensagem": "Sobre tecnologia escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "computador",
+    "mensagem": "Sobre laboratório de informática, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "internet",
+    "mensagem": "Sobre internet, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "wifi",
+    "mensagem": "Sobre internet, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "wi-fi",
+    "mensagem": "Sobre internet, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "senha",
+    "mensagem": "Sobre acesso digital, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "plataforma",
+    "mensagem": "Sobre plataformas digitais, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "portal",
+    "mensagem": "Sobre portal do aluno, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "boletim",
+    "mensagem": "Sobre boletim, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "notas",
+    "mensagem": "Sobre notas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "nota",
+    "mensagem": "Sobre notas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "média",
+    "mensagem": "Sobre média escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "media",
+    "mensagem": "Sobre média escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "aprovação",
+    "mensagem": "Sobre aprovação, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "aprovacao",
+    "mensagem": "Sobre aprovação, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "reprovação",
+    "mensagem": "Sobre reprovação, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "reprovacao",
+    "mensagem": "Sobre reprovação, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "recuperação",
+    "mensagem": "Sobre recuperação, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "recuperacao",
+    "mensagem": "Sobre recuperação, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "prova",
+    "mensagem": "Sobre provas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "avaliação",
+    "mensagem": "Sobre avaliações, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "avaliacao",
+    "mensagem": "Sobre avaliações, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "teste",
+    "mensagem": "Sobre testes, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "simulado",
+    "mensagem": "Sobre simulados, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "trabalho",
+    "mensagem": "Sobre trabalhos escolares, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "seminário",
+    "mensagem": "Sobre seminários, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "seminario",
+    "mensagem": "Sobre seminários, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "apresentação",
+    "mensagem": "Sobre apresentações, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "apresentacao",
+    "mensagem": "Sobre apresentações, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "tarefa",
+    "mensagem": "Sobre tarefas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "lição",
+    "mensagem": "Sobre tarefas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "licao",
+    "mensagem": "Sobre tarefas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "dever",
+    "mensagem": "Sobre tarefas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "deveres",
+    "mensagem": "Sobre tarefas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "atividade",
+    "mensagem": "Sobre atividades, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "exercício",
+    "mensagem": "Sobre exercícios, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "exercicio",
+    "mensagem": "Sobre exercícios, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "falta",
+    "mensagem": "Sobre faltas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "faltas",
+    "mensagem": "Sobre faltas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "presença",
+    "mensagem": "Sobre presença, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "presenca",
+    "mensagem": "Sobre presença, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "frequência",
+    "mensagem": "Sobre frequência, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "frequencia",
+    "mensagem": "Sobre frequência, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "atestado",
+    "mensagem": "Sobre atestados, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "justificativa",
+    "mensagem": "Sobre justificativa de faltas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "calendário",
+    "mensagem": "Sobre calendário escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "calendario",
+    "mensagem": "Sobre calendário escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "feriado",
+    "mensagem": "Sobre feriados, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "férias",
+    "mensagem": "Sobre férias, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "ferias",
+    "mensagem": "Sobre férias, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "recesso",
+    "mensagem": "Sobre recesso, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "aula",
+    "mensagem": "Sobre aulas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "aulas",
+    "mensagem": "Sobre aulas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "período",
+    "mensagem": "Sobre períodos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "periodo",
+    "mensagem": "Sobre períodos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "manhã",
+    "mensagem": "Sobre turnos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "manha",
+    "mensagem": "Sobre turnos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "tarde",
+    "mensagem": "Sobre turnos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "noite",
+    "mensagem": "Sobre turnos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "integral",
+    "mensagem": "Sobre período integral, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "grade",
+    "mensagem": "Sobre grade horária, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "horárioaula",
+    "mensagem": "Sobre grade horária, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "disciplinas",
+    "mensagem": "Sobre disciplinas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "matéria",
+    "mensagem": "Sobre disciplinas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "materia",
+    "mensagem": "Sobre disciplinas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "português",
+    "mensagem": "Sobre língua portuguesa, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "matemática",
+    "mensagem": "Sobre matemática, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "matematica",
+    "mensagem": "Sobre matemática, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "ciências",
+    "mensagem": "Sobre ciências, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "ciencias",
+    "mensagem": "Sobre ciências, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "história",
+    "mensagem": "Sobre história, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "historia",
+    "mensagem": "Sobre história, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "geografia",
+    "mensagem": "Sobre geografia, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "inglês",
+    "mensagem": "Sobre inglês, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "ingles",
+    "mensagem": "Sobre inglês, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "espanhol",
+    "mensagem": "Sobre espanhol, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "arte",
+    "mensagem": "Sobre arte, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "artes",
+    "mensagem": "Sobre arte, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "educação",
+    "mensagem": "Sobre educação física, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "edfisica",
+    "mensagem": "Sobre educação física, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "física",
+    "mensagem": "Sobre física, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "química",
+    "mensagem": "Sobre química, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "quimica",
+    "mensagem": "Sobre química, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "biologia",
+    "mensagem": "Sobre biologia, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "filosofia",
+    "mensagem": "Sobre filosofia, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "sociologia",
+    "mensagem": "Sobre sociologia, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "redação",
+    "mensagem": "Sobre redação, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "redacao",
+    "mensagem": "Sobre redação, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "literatura",
+    "mensagem": "Sobre literatura, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "robótica",
+    "mensagem": "Sobre robótica, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "robotica",
+    "mensagem": "Sobre robótica, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "programação",
+    "mensagem": "Sobre programação, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "programacao",
+    "mensagem": "Sobre programação, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "informática",
+    "mensagem": "Sobre informática, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "informatica",
+    "mensagem": "Sobre informática, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "laboratório",
+    "mensagem": "Sobre laboratórios, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "laboratorio",
+    "mensagem": "Sobre laboratórios, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "biblioteca",
+    "mensagem": "Sobre biblioteca, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "livraria",
+    "mensagem": "Sobre livraria escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "quadra",
+    "mensagem": "Sobre quadra esportiva, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "pátio",
+    "mensagem": "Sobre pátio, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "patio",
+    "mensagem": "Sobre pátio, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "refeitório",
+    "mensagem": "Sobre refeitório, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "refeitorio",
+    "mensagem": "Sobre refeitório, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "cantina",
+    "mensagem": "Sobre cantina, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "lanche",
+    "mensagem": "Sobre lanches, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "merenda",
+    "mensagem": "Sobre merenda, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "almoço",
+    "mensagem": "Sobre almoço, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "almoco",
+    "mensagem": "Sobre almoço, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "comida",
+    "mensagem": "Sobre alimentação, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "cardápio",
+    "mensagem": "Sobre cardápio, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "cardapio",
+    "mensagem": "Sobre cardápio, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "bebedouro",
+    "mensagem": "Sobre bebedouros, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "banheiro",
+    "mensagem": "Sobre banheiros, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "banheiros",
+    "mensagem": "Sobre banheiros, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "limpeza",
+    "mensagem": "Sobre limpeza, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "higiene",
+    "mensagem": "Sobre higiene, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "acessibilidade",
+    "mensagem": "Sobre acessibilidade, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "elevador",
+    "mensagem": "Sobre acessibilidade, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "rampa",
+    "mensagem": "Sobre acessibilidade, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "cadeirante",
+    "mensagem": "Sobre acessibilidade, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "inclusão",
+    "mensagem": "Sobre inclusão, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "inclusao",
+    "mensagem": "Sobre inclusão, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "deficiência",
+    "mensagem": "Sobre apoio à inclusão, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "deficiencia",
+    "mensagem": "Sobre apoio à inclusão, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "bullying",
+    "mensagem": "Sobre convivência e bullying, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "briga",
+    "mensagem": "Sobre convivência e disciplina, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "disciplina",
+    "mensagem": "Sobre regras e disciplina, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "regras",
+    "mensagem": "Sobre regras escolares, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "regimento",
+    "mensagem": "Sobre regimento escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "direitos",
+    "mensagem": "Sobre direitos dos alunos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "respeito",
+    "mensagem": "Sobre convivência, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "convivência",
+    "mensagem": "Sobre convivência, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "convivencia",
+    "mensagem": "Sobre convivência, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "denúncia",
+    "mensagem": "Sobre relatos e denúncias, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "denuncia",
+    "mensagem": "Sobre relatos e denúncias, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "reclamação",
+    "mensagem": "Sobre reclamações, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "reclamacao",
+    "mensagem": "Sobre reclamações, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "sugestão",
+    "mensagem": "Sobre sugestões, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "sugestao",
+    "mensagem": "Sobre sugestões, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "achados",
+    "mensagem": "Sobre achados e perdidos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "perdidos",
+    "mensagem": "Sobre achados e perdidos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "objeto",
+    "mensagem": "Sobre achados e perdidos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "celular",
+    "mensagem": "Sobre uso de celulares, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "telefonecelular",
+    "mensagem": "Sobre uso de celulares, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "foto",
+    "mensagem": "Sobre imagem e autorização, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "imagem",
+    "mensagem": "Sobre imagem e autorização, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "privacidade",
+    "mensagem": "Sobre privacidade, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "dados",
+    "mensagem": "Sobre proteção de dados, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "segurança",
+    "mensagem": "Sobre segurança, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "seguranca",
+    "mensagem": "Sobre segurança, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "emergência",
+    "mensagem": "Sobre emergências, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "emergencia",
+    "mensagem": "Sobre emergências, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "primeirossocorros",
+    "mensagem": "Sobre primeiros socorros, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "enfermaria",
+    "mensagem": "Sobre enfermaria, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "machucado",
+    "mensagem": "Sobre atendimento de saúde, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "medicamento",
+    "mensagem": "Sobre medicamentos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "alergia",
+    "mensagem": "Sobre alergias alimentares, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "alergias",
+    "mensagem": "Sobre alergias alimentares, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "saúde",
+    "mensagem": "Sobre saúde escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "saude",
+    "mensagem": "Sobre saúde escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "psicólogo",
+    "mensagem": "Sobre apoio psicológico, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "psicologa",
+    "mensagem": "Sobre apoio psicológico, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "psicologia",
+    "mensagem": "Sobre apoio psicológico, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "conselho",
+    "mensagem": "Sobre conselho escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "reunião",
+    "mensagem": "Sobre reuniões, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "reuniao",
+    "mensagem": "Sobre reuniões, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "pais",
+    "mensagem": "Sobre responsáveis, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "responsáveis",
+    "mensagem": "Sobre responsáveis, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "responsaveis",
+    "mensagem": "Sobre responsáveis, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "família",
+    "mensagem": "Sobre família e escola, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "familia",
+    "mensagem": "Sobre família e escola, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "responsável",
+    "mensagem": "Sobre responsáveis, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "autorização",
+    "mensagem": "Sobre autorizações, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "autorizacao",
+    "mensagem": "Sobre autorizações, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "saídaantecipada",
+    "mensagem": "Sobre saída antecipada, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "excursão",
+    "mensagem": "Sobre passeios e excursões, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "excursao",
+    "mensagem": "Sobre passeios e excursões, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "passeio",
+    "mensagem": "Sobre passeios e excursões, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "viagem",
+    "mensagem": "Sobre viagens escolares, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "evento",
+    "mensagem": "Sobre eventos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "eventos",
+    "mensagem": "Sobre eventos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "festa",
+    "mensagem": "Sobre festas escolares, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "formatura",
+    "mensagem": "Sobre formatura, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "cerimônia",
+    "mensagem": "Sobre cerimônias, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "cerimonia",
+    "mensagem": "Sobre cerimônias, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "gincana",
+    "mensagem": "Sobre gincanas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "campeonato",
+    "mensagem": "Sobre campeonatos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "esporte",
+    "mensagem": "Sobre esportes, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "esportes",
+    "mensagem": "Sobre esportes, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "futebol",
+    "mensagem": "Sobre esportes, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "vôlei",
+    "mensagem": "Sobre esportes, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "volei",
+    "mensagem": "Sobre esportes, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "basquete",
+    "mensagem": "Sobre esportes, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "treino",
+    "mensagem": "Sobre treinos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "eletiva",
+    "mensagem": "Sobre eletivas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "projeto",
+    "mensagem": "Sobre projetos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "projetos",
+    "mensagem": "Sobre projetos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "feira",
+    "mensagem": "Sobre feira de ciências, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "ciênciasfeira",
+    "mensagem": "Sobre feira de ciências, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "olimpíada",
+    "mensagem": "Sobre olimpíadas acadêmicas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "olimpiada",
+    "mensagem": "Sobre olimpíadas acadêmicas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "competição",
+    "mensagem": "Sobre competições, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "competicao",
+    "mensagem": "Sobre competições, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "bolsa",
+    "mensagem": "Sobre bolsas e descontos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "desconto",
+    "mensagem": "Sobre bolsas e descontos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "mensalidade",
+    "mensagem": "Sobre mensalidade, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "pagamento",
+    "mensagem": "Sobre pagamentos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "financeiro",
+    "mensagem": "Sobre setor financeiro, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "taxa",
+    "mensagem": "Sobre taxas escolares, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "gratuito",
+    "mensagem": "Sobre gratuidade, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "gratuidade",
+    "mensagem": "Sobre gratuidade, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "transporte",
+    "mensagem": "Sobre transporte escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "ônibus",
+    "mensagem": "Sobre transporte escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "onibus",
+    "mensagem": "Sobre transporte escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "van",
+    "mensagem": "Sobre transporte escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "estacionamento",
+    "mensagem": "Sobre estacionamento, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "bicicleta",
+    "mensagem": "Sobre bicicletário, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "bicicletário",
+    "mensagem": "Sobre bicicletário, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "portaria",
+    "mensagem": "Sobre portaria, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "visitante",
+    "mensagem": "Sobre visitantes, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "visita",
+    "mensagem": "Sobre visitas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "documento",
+    "mensagem": "Sobre documentos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "documentos",
+    "mensagem": "Sobre documentos, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "histórico",
+    "mensagem": "Sobre histórico escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "historico",
+    "mensagem": "Sobre histórico escolar, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "declaração",
+    "mensagem": "Sobre declarações, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "declaracao",
+    "mensagem": "Sobre declarações, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "certificado",
+    "mensagem": "Sobre certificados, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  },
+  {
+    "fator": "diploma",
+    "mensagem": "Sobre diplomas, as informações da escola são as seguintes: descrição e funcionamento: [dado]; horários e datas importantes: [dado]; local/setor responsável: [dado]; regras e procedimentos: [dado]; documentos ou materiais necessários: [dado]; valores ou taxas, se houver: [dado]; como solicitar, consultar ou resolver essa questão: [dado]; prazo de atendimento ou resposta: [dado]; contato para mais informações: [dado]. Se a informação específica não estiver disponível, procure [setor responsável] pelo canal [contato]."
+  }
+]
