@@ -1,0 +1,3 @@
+adicionar uma parte de key words no site!
+
+alunos, aulas, professores, materias, anos, matricula, escola, estudantes, formatura, eventos, provas, avalia, salas, tecnologias, diretor, coordenacao, secretaria, endereco, contato, horarios, biblioteca, livros, aprovacao, tarefa, quadra, refeitorio, comida, lanche, cardapio, acessibilidade, olimpiadas, bullying, sugestao, sugestoes, pais, responsaveis, familia, passeio, passeios, esporte, diploma

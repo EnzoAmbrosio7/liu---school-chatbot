@@ -28,6 +28,10 @@ body {
     color: #D0CDD7;
 }
 
+#maindiv h1 {
+    font-size: 5vh;
+}
+
 
 #maindiv input {
     font-family: "Oswald", sans-serif ;
@@ -55,6 +59,7 @@ body {
     border: solid #D0CDD7 0.3vh;
     border-radius: 15px;
     background-color: #373F47;
+    
 }
 
 header {
@@ -78,5 +83,7 @@ header {
 
 p {
     font-size: 4vh;
-    
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-bottom: 3vh;
 }
